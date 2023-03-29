@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/APM.Utilities.Test/obj
+/APM.Utilities/obj
+/APM.SL.Test/obj
+/APM.SL/obj
+/APM.MVC/obj
+/.vs
